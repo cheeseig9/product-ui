@@ -19,4 +19,4 @@ In command
     8.  npm i
     9.  npm start
     10.  npm start
-    11. isdfihsdf
+    11.  npm start
