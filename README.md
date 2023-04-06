@@ -18,5 +18,4 @@ In command
     7.  ls
     8.  npm i
     9.  npm start
-    10.  npm start
-    11.  npm start
+    10.  copy the link (located On Your Network)
